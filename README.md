@@ -585,6 +585,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write LaTeX from 1,000+ journal, thesis and CV templates and compile to PDF with the build log.
+- [Proseify](https://proseify.xyz) `https://mcp.proseify.xyz/mcp` 🔐 - A hosted book-writing engine for agents: genre recipes drawn from the literary traditions, full-text search over a public-domain corpus, and a plan, outline, draft, evaluate, polish pipeline. The agent's own model writes the prose; the server supplies the literature and the craft.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
